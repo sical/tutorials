@@ -19,3 +19,7 @@ pip install cesiumpy
 ```
 
 Et hop, c'est tout bon normalement.
+
+
+> Si jamais vous rencontrez des problèmes pour l'exécution du notebook, voici celui-ci avec les sorties générées:
+http://nbviewer.jupyter.org/github/sical/tutorials/blob/master/Discover_Jupyter_with_outputs.ipynb
